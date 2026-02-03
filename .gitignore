@@ -1,0 +1,15 @@
+# Arquivos compilados
+target/
+*.class
+
+# Arquivos da IDE (IntelliJ / Eclipse)
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Logs e sistema
+*.log
+Thumbs.db
