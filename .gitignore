@@ -13,3 +13,6 @@ target/
 # Logs e sistema
 *.log
 Thumbs.db
+
+### Database Data ###
+database/data/
