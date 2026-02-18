@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Database Data ###
-database/data/
+servicos/database/data/

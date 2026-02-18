@@ -1,7 +1,7 @@
 package io.github.cursodsousa.icompras.pedidos.model.enums;
 
 public enum TipoPagamento {
-    DEBiT,
+    DEBIT,
     CREDIT,
     PIX
 }
